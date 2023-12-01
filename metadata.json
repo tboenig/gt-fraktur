@@ -1,0 +1,65 @@
+{
+  "schema": "https://tboenig.github.io/gt-metadata/schema/2023-10-25/schema.json",
+  "title": "GT-FRAKTUR",
+  "url": "https://github.com/tboenig/gt-fraktur",
+  "authors": [
+    {
+      "name": "Olaf",
+      "surname": "Brandt",
+      "orcid": "0000-0002-3379-1190",
+      "roles": [
+        "transcriber",
+        "aligner",
+        "project-manager",
+        "quality-control",
+        "digitization",
+        "support"
+      ]
+    }
+  ],
+  "description": "This repository contains transcriptions of selected pages from 19th Century books. The original TIFF images used for OCR transcription of the following publications are published on Archive.org.",
+  "language": [
+    "deu"
+  ],
+  "production-software": "Transkribus",
+  "script": [
+    "Latn",
+    "Goth"
+  ],
+  "script-type": "print",
+  "time": {
+    "notBefore": "1834",
+    "notAfter": "1875"
+  },
+  "hands": {
+    "count": "unknown",
+    "level": "levelmix"
+  },
+  "license": [
+    {
+      "name": "CC0 1.0",
+      "url": "https://creativecommons.org/licenses/zero/1.0/"
+    }
+  ],
+  "gtType": "data_structure_and_text",
+  "format": "Page-XML",
+  "volume": {
+    "TxtRegion": "491",
+    "TextLine": "14662",
+    "Page": "208"
+  },
+  "labelling": [
+    "content-type/corpus",
+    "platform/platform-independent",
+    "content-encoding/structured",
+    "activityDomain/computing/visual/analysisRecognition/text",
+    "activityDomain/computing/visual/analysisRecognition/ocr",
+    "activityDomain/computing/visual/analysisRecognition/layoutAnalysis",
+    "contentOfInterest/visual/text",
+    "granularity/physical/document-related/page",
+    "granularity/physical/document-related/text-line",
+    "granularity/physical/document-related/word",
+    "data-attributes/document-related/visual/text/font/typeface/blackletter",
+    "data-attributes/document-related/visual/text/font/typeface/antiqua"
+  ]
+}
