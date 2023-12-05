@@ -292,7 +292,7 @@ jobs:
               git config --local user.name "github-actions[bot]"
               git add README.md
               git commit -m "[Automatic] Update readme files" || echo "Nothing to update"
-              git push origin HEAD:main
+              git push origin HEAD:${{ github.event.repository.default_branch }}
       
       
           - name: Deploy GT-Overview to GitHub Pages 🚀
