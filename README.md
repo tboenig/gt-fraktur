@@ -292,9 +292,8 @@
    </div>
    <div id="extent">
       <h2>Extent</h2>
-     <h3>Shelfmark</h3>
-
-<p>The Shelfmark / DigitalID's of the 19th Century Fraktur prints selected for transcribing:</p>
+      <h3>Shelfmark</h3>
+      <p>The Shelfmark / DigitalID's of the 19th Century Fraktur prints selected for transcribing:</p>
 
  
 | # | FolderName | NumberOfPages | URL-Shelfmark-DigitalID | Comments |
@@ -314,8 +313,7 @@
 
 
 <h3>Quality Issues</h3>
-
-<p>Details of the page quality issues observed during the transcription process:</p>
+      <p>Details of the page quality issues observed during the transcription process:</p>
 
 | # | Shelfmark-DigitalID | Quality Bugs | 
 | :-- | :--- |:----- |
@@ -330,9 +328,6 @@
 ----
 
 <h3>LICENSE</h3>
-
-<p>This data is is released by UB, Uni-Tuebingen as Open Data under the [CC0 public license](https://creativecommons.org/publicdomain/zero/1.0/).</p>
-
-
+      <p>This data is is released by UB, Uni-Tuebingen as Open Data under the [CC0 public license](https://creativecommons.org/publicdomain/zero/1.0/).</p>
    </div>
 </div>
