@@ -292,9 +292,9 @@
    </div>
    <div id="extent">
       <h2>Extent</h2>
-      ## §1.1. Shelfmark <span id="1-1-Shelfmark"><span>
+     <h3>Shelfmark</h3>
 
-The Shelfmark / DigitalID's of the 19th Century Fraktur prints selected for transcribing:
+<p>The Shelfmark / DigitalID's of the 19th Century Fraktur prints selected for transcribing:</p>
 
  
 | # | FolderName | NumberOfPages | URL-Shelfmark-DigitalID | Comments |
@@ -313,9 +313,9 @@ The Shelfmark / DigitalID's of the 19th Century Fraktur prints selected for tran
 | 12. | [zpk_1838_01](https://github.com/ubtue/gt-fraktur/tree/master/zpk_1838_01) | 7 pgs | http://idb.ub.uni-tuebingen.de/opendigi/zpk_1838_01 | |
 
 
-## §1.2. Quality Issues <span id="1-2-Quality-Issues"><span>
+<h3>Quality Issues</h3>
 
-Details of the page quality issues observed during the transcription process:
+<p>Details of the page quality issues observed during the transcription process:</p>
 
 | # | Shelfmark-DigitalID | Quality Bugs | 
 | :-- | :--- |:----- |
@@ -329,9 +329,9 @@ Details of the page quality issues observed during the transcription process:
 
 ----
 
-# §2. LICENSE <span id="2-LICENSE"><span>
+<h3>LICENSE</h3>
 
-* This data is is released by UB, Uni-Tuebingen as Open Data under the [CC0 public license](https://creativecommons.org/publicdomain/zero/1.0/).
+<p>This data is is released by UB, Uni-Tuebingen as Open Data under the [CC0 public license](https://creativecommons.org/publicdomain/zero/1.0/).</p>
 
 
    </div>
