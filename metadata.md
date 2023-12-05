@@ -130,7 +130,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/gt-fraktur/releases/tag/v1.0.6">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 7_v1.0.6</a>
+         <a href="https://github.com/tboenig/gt-fraktur/releases/tag/v1.0.8">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 9_v1.0.8</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/gt-fraktur/releases">Version archive</a>

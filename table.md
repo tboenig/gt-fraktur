@@ -233,7 +233,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/thlblb_1866/GT-PAGE/thlblb_1866_00025.xml">thlblb_1866_00025.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/thlblb_1866/GT-PAGE/thlblb_1866_00025.xml">thlblb_1866_00025.xml</a>
                            </td>
                            <td>131</td>
                            <td>1</td>
@@ -254,7 +254,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/thlblb_1866/GT-PAGE/thlblb_1866_00069.xml">thlblb_1866_00069.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/thlblb_1866/GT-PAGE/thlblb_1866_00069.xml">thlblb_1866_00069.xml</a>
                            </td>
                            <td>122</td>
                            <td>1</td>
@@ -275,7 +275,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/thlblb_1866/GT-PAGE/thlblb_1866_00121.xml">thlblb_1866_00121.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/thlblb_1866/GT-PAGE/thlblb_1866_00121.xml">thlblb_1866_00121.xml</a>
                            </td>
                            <td>125</td>
                            <td>1</td>
@@ -296,7 +296,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/thlblb_1866/GT-PAGE/thlblb_1866_00261.xml">thlblb_1866_00261.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/thlblb_1866/GT-PAGE/thlblb_1866_00261.xml">thlblb_1866_00261.xml</a>
                            </td>
                            <td>140</td>
                            <td>1</td>
@@ -317,7 +317,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/thlblb_1866/GT-PAGE/thlblb_1866_00004.xml">thlblb_1866_00004.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/thlblb_1866/GT-PAGE/thlblb_1866_00004.xml">thlblb_1866_00004.xml</a>
                            </td>
                            <td>109</td>
                            <td>1</td>
@@ -338,7 +338,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/thlblb_1866/GT-PAGE/thlblb_1866_00007.xml">thlblb_1866_00007.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/thlblb_1866/GT-PAGE/thlblb_1866_00007.xml">thlblb_1866_00007.xml</a>
                            </td>
                            <td>219</td>
                            <td>1</td>
@@ -359,7 +359,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/thlblb_1866/GT-PAGE/thlblb_1866_00005.xml">thlblb_1866_00005.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/thlblb_1866/GT-PAGE/thlblb_1866_00005.xml">thlblb_1866_00005.xml</a>
                            </td>
                            <td>150</td>
                            <td>1</td>
@@ -380,7 +380,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/thlblb_1866/GT-PAGE/thlblb_1866_00405.xml">thlblb_1866_00405.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/thlblb_1866/GT-PAGE/thlblb_1866_00405.xml">thlblb_1866_00405.xml</a>
                            </td>
                            <td>93</td>
                            <td>1</td>
@@ -401,7 +401,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/thlblb_1866/GT-PAGE/thlblb_1866_00008.xml">thlblb_1866_00008.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/thlblb_1866/GT-PAGE/thlblb_1866_00008.xml">thlblb_1866_00008.xml</a>
                            </td>
                            <td>221</td>
                            <td>1</td>
@@ -422,7 +422,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/thlblb_1866/GT-PAGE/thlblb_1866_00085.xml">thlblb_1866_00085.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/thlblb_1866/GT-PAGE/thlblb_1866_00085.xml">thlblb_1866_00085.xml</a>
                            </td>
                            <td>129</td>
                            <td>1</td>
@@ -443,7 +443,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/thlblb_1866/GT-PAGE/thlblb_1866_00424.xml">thlblb_1866_00424.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/thlblb_1866/GT-PAGE/thlblb_1866_00424.xml">thlblb_1866_00424.xml</a>
                            </td>
                            <td>133</td>
                            <td>1</td>
@@ -464,7 +464,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/thlblb_1866/GT-PAGE/thlblb_1866_00010.xml">thlblb_1866_00010.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/thlblb_1866/GT-PAGE/thlblb_1866_00010.xml">thlblb_1866_00010.xml</a>
                            </td>
                            <td>117</td>
                            <td>1</td>
@@ -485,7 +485,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/thlblb_1866/GT-PAGE/thlblb_1866_00229.xml">thlblb_1866_00229.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/thlblb_1866/GT-PAGE/thlblb_1866_00229.xml">thlblb_1866_00229.xml</a>
                            </td>
                            <td>133</td>
                            <td>1</td>
@@ -506,7 +506,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/thlblb_1866/GT-PAGE/thlblb_1866_00253.xml">thlblb_1866_00253.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/thlblb_1866/GT-PAGE/thlblb_1866_00253.xml">thlblb_1866_00253.xml</a>
                            </td>
                            <td>131</td>
                            <td>1</td>
@@ -527,7 +527,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/thlblb_1866/GT-PAGE/thlblb_1866_00309.xml">thlblb_1866_00309.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/thlblb_1866/GT-PAGE/thlblb_1866_00309.xml">thlblb_1866_00309.xml</a>
                            </td>
                            <td>119</td>
                            <td>1</td>
@@ -548,7 +548,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/thlblb_1866/GT-PAGE/thlblb_1866_00022.xml">thlblb_1866_00022.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/thlblb_1866/GT-PAGE/thlblb_1866_00022.xml">thlblb_1866_00022.xml</a>
                            </td>
                            <td>134</td>
                            <td>1</td>
@@ -569,7 +569,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/thlblb_1866/GT-PAGE/thlblb_1866_00037.xml">thlblb_1866_00037.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/thlblb_1866/GT-PAGE/thlblb_1866_00037.xml">thlblb_1866_00037.xml</a>
                            </td>
                            <td>129</td>
                            <td>1</td>
@@ -590,7 +590,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/thlblb_1866/GT-PAGE/thlblb_1866_00011.xml">thlblb_1866_00011.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/thlblb_1866/GT-PAGE/thlblb_1866_00011.xml">thlblb_1866_00011.xml</a>
                            </td>
                            <td>133</td>
                            <td>1</td>
@@ -611,7 +611,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/thlblb_1866/GT-PAGE/thlblb_1866_00425.xml">thlblb_1866_00425.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/thlblb_1866/GT-PAGE/thlblb_1866_00425.xml">thlblb_1866_00425.xml</a>
                            </td>
                            <td>107</td>
                            <td>1</td>
@@ -632,7 +632,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/thlblb_1866/GT-PAGE/thlblb_1866_00357.xml">thlblb_1866_00357.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/thlblb_1866/GT-PAGE/thlblb_1866_00357.xml">thlblb_1866_00357.xml</a>
                            </td>
                            <td>111</td>
                            <td>1</td>
@@ -653,7 +653,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/thlblb_1866/GT-PAGE/thlblb_1866_00009.xml">thlblb_1866_00009.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/thlblb_1866/GT-PAGE/thlblb_1866_00009.xml">thlblb_1866_00009.xml</a>
                            </td>
                            <td>31</td>
                            <td>1</td>
@@ -674,7 +674,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/thlblb_1866/GT-PAGE/thlblb_1866_00024.xml">thlblb_1866_00024.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/thlblb_1866/GT-PAGE/thlblb_1866_00024.xml">thlblb_1866_00024.xml</a>
                            </td>
                            <td>139</td>
                            <td>1</td>
@@ -695,7 +695,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/thlblb_1866/GT-PAGE/thlblb_1866_00023.xml">thlblb_1866_00023.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/thlblb_1866/GT-PAGE/thlblb_1866_00023.xml">thlblb_1866_00023.xml</a>
                            </td>
                            <td>142</td>
                            <td>1</td>
@@ -716,7 +716,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/thlblb_1866/GT-PAGE/thlblb_1866_00006.xml">thlblb_1866_00006.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/thlblb_1866/GT-PAGE/thlblb_1866_00006.xml">thlblb_1866_00006.xml</a>
                            </td>
                            <td>151</td>
                            <td>1</td>
@@ -737,7 +737,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/thlblb_1866/GT-PAGE/thlblb_1866_00441.xml">thlblb_1866_00441.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/thlblb_1866/GT-PAGE/thlblb_1866_00441.xml">thlblb_1866_00441.xml</a>
                            </td>
                            <td>90</td>
                            <td>1</td>
@@ -807,7 +807,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/harless1834/GT-PAGE/harless1834_0003.xml">harless1834_0003.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/harless1834/GT-PAGE/harless1834_0003.xml">harless1834_0003.xml</a>
                            </td>
                            <td>16</td>
                            <td>1</td>
@@ -828,7 +828,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/harless1834/GT-PAGE/harless1834_0005.xml">harless1834_0005.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/harless1834/GT-PAGE/harless1834_0005.xml">harless1834_0005.xml</a>
                            </td>
                            <td>26</td>
                            <td>1</td>
@@ -849,7 +849,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/harless1834/GT-PAGE/harless1834_0127.xml">harless1834_0127.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/harless1834/GT-PAGE/harless1834_0127.xml">harless1834_0127.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -870,7 +870,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/harless1834/GT-PAGE/harless1834_0001.xml">harless1834_0001.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/harless1834/GT-PAGE/harless1834_0001.xml">harless1834_0001.xml</a>
                            </td>
                            <td>14</td>
                            <td>1</td>
@@ -891,7 +891,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/harless1834/GT-PAGE/harless1834_0004.xml">harless1834_0004.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/harless1834/GT-PAGE/harless1834_0004.xml">harless1834_0004.xml</a>
                            </td>
                            <td>26</td>
                            <td>1</td>
@@ -912,7 +912,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/harless1834/GT-PAGE/harless1834_0097.xml">harless1834_0097.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/harless1834/GT-PAGE/harless1834_0097.xml">harless1834_0097.xml</a>
                            </td>
                            <td>34</td>
                            <td>1</td>
@@ -933,7 +933,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/harless1834/GT-PAGE/harless1834_0002.xml">harless1834_0002.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/harless1834/GT-PAGE/harless1834_0002.xml">harless1834_0002.xml</a>
                            </td>
                            <td>7</td>
                            <td>1</td>
@@ -1003,7 +1003,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/agtck_1834_02/GT-PAGE/agtck_1834_02_00027.xml">agtck_1834_02_00027.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/agtck_1834_02/GT-PAGE/agtck_1834_02_00027.xml">agtck_1834_02_00027.xml</a>
                            </td>
                            <td>34</td>
                            <td>1</td>
@@ -1024,7 +1024,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/agtck_1834_02/GT-PAGE/agtck_1834_02_00082.xml">agtck_1834_02_00082.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/agtck_1834_02/GT-PAGE/agtck_1834_02_00082.xml">agtck_1834_02_00082.xml</a>
                            </td>
                            <td>34</td>
                            <td>1</td>
@@ -1045,7 +1045,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/agtck_1834_02/GT-PAGE/agtck_1834_02_00271.xml">agtck_1834_02_00271.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/agtck_1834_02/GT-PAGE/agtck_1834_02_00271.xml">agtck_1834_02_00271.xml</a>
                            </td>
                            <td>25</td>
                            <td>1</td>
@@ -1066,7 +1066,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/agtck_1834_02/GT-PAGE/agtck_1834_02_00316.xml">agtck_1834_02_00316.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/agtck_1834_02/GT-PAGE/agtck_1834_02_00316.xml">agtck_1834_02_00316.xml</a>
                            </td>
                            <td>49</td>
                            <td>1</td>
@@ -1087,7 +1087,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/agtck_1834_02/GT-PAGE/agtck_1834_02_00219.xml">agtck_1834_02_00219.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/agtck_1834_02/GT-PAGE/agtck_1834_02_00219.xml">agtck_1834_02_00219.xml</a>
                            </td>
                            <td>28</td>
                            <td>1</td>
@@ -1108,7 +1108,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/agtck_1834_02/GT-PAGE/agtck_1834_02_00035.xml">agtck_1834_02_00035.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/agtck_1834_02/GT-PAGE/agtck_1834_02_00035.xml">agtck_1834_02_00035.xml</a>
                            </td>
                            <td>33</td>
                            <td>1</td>
@@ -1129,7 +1129,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/agtck_1834_02/GT-PAGE/agtck_1834_02_00004.xml">agtck_1834_02_00004.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/agtck_1834_02/GT-PAGE/agtck_1834_02_00004.xml">agtck_1834_02_00004.xml</a>
                            </td>
                            <td>26</td>
                            <td>1</td>
@@ -1150,7 +1150,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/agtck_1834_02/GT-PAGE/agtck_1834_02_00018.xml">agtck_1834_02_00018.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/agtck_1834_02/GT-PAGE/agtck_1834_02_00018.xml">agtck_1834_02_00018.xml</a>
                            </td>
                            <td>38</td>
                            <td>1</td>
@@ -1171,7 +1171,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/agtck_1834_02/GT-PAGE/agtck_1834_02_00312.xml">agtck_1834_02_00312.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/agtck_1834_02/GT-PAGE/agtck_1834_02_00312.xml">agtck_1834_02_00312.xml</a>
                            </td>
                            <td>45</td>
                            <td>1</td>
@@ -1192,7 +1192,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/agtck_1834_02/GT-PAGE/agtck_1834_02_00002.xml">agtck_1834_02_00002.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/agtck_1834_02/GT-PAGE/agtck_1834_02_00002.xml">agtck_1834_02_00002.xml</a>
                            </td>
                            <td>22</td>
                            <td>1</td>
@@ -1213,7 +1213,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/agtck_1834_02/GT-PAGE/agtck_1834_02_00304.xml">agtck_1834_02_00304.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/agtck_1834_02/GT-PAGE/agtck_1834_02_00304.xml">agtck_1834_02_00304.xml</a>
                            </td>
                            <td>38</td>
                            <td>1</td>
@@ -1234,7 +1234,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/agtck_1834_02/GT-PAGE/agtck_1834_02_00311.xml">agtck_1834_02_00311.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/agtck_1834_02/GT-PAGE/agtck_1834_02_00311.xml">agtck_1834_02_00311.xml</a>
                            </td>
                            <td>47</td>
                            <td>1</td>
@@ -1255,7 +1255,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/agtck_1834_02/GT-PAGE/agtck_1834_02_00299.xml">agtck_1834_02_00299.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/agtck_1834_02/GT-PAGE/agtck_1834_02_00299.xml">agtck_1834_02_00299.xml</a>
                            </td>
                            <td>38</td>
                            <td>1</td>
@@ -1276,7 +1276,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/agtck_1834_02/GT-PAGE/agtck_1834_02_00003.xml">agtck_1834_02_00003.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/agtck_1834_02/GT-PAGE/agtck_1834_02_00003.xml">agtck_1834_02_00003.xml</a>
                            </td>
                            <td>42</td>
                            <td>1</td>
@@ -1297,7 +1297,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/agtck_1834_02/GT-PAGE/agtck_1834_02_00077.xml">agtck_1834_02_00077.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/agtck_1834_02/GT-PAGE/agtck_1834_02_00077.xml">agtck_1834_02_00077.xml</a>
                            </td>
                            <td>38</td>
                            <td>1</td>
@@ -1367,7 +1367,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/zpkt_1832_01/GT-PAGE/zpkt_1832_01_00032.xml">zpkt_1832_01_00032.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/zpkt_1832_01/GT-PAGE/zpkt_1832_01_00032.xml">zpkt_1832_01_00032.xml</a>
                            </td>
                            <td>39</td>
                            <td>1</td>
@@ -1388,7 +1388,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/zpkt_1832_01/GT-PAGE/zpkt_1832_01_00003.xml">zpkt_1832_01_00003.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/zpkt_1832_01/GT-PAGE/zpkt_1832_01_00003.xml">zpkt_1832_01_00003.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -1409,7 +1409,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/zpkt_1832_01/GT-PAGE/zpkt_1832_01_00011.xml">zpkt_1832_01_00011.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/zpkt_1832_01/GT-PAGE/zpkt_1832_01_00011.xml">zpkt_1832_01_00011.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -1430,7 +1430,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/zpkt_1832_01/GT-PAGE/zpkt_1832_01_00005.xml">zpkt_1832_01_00005.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/zpkt_1832_01/GT-PAGE/zpkt_1832_01_00005.xml">zpkt_1832_01_00005.xml</a>
                            </td>
                            <td>33</td>
                            <td>1</td>
@@ -1451,7 +1451,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/zpkt_1832_01/GT-PAGE/zpkt_1832_01_00031.xml">zpkt_1832_01_00031.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/zpkt_1832_01/GT-PAGE/zpkt_1832_01_00031.xml">zpkt_1832_01_00031.xml</a>
                            </td>
                            <td>42</td>
                            <td>1</td>
@@ -1472,7 +1472,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/zpkt_1832_01/GT-PAGE/zpkt_1832_01_00012.xml">zpkt_1832_01_00012.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/zpkt_1832_01/GT-PAGE/zpkt_1832_01_00012.xml">zpkt_1832_01_00012.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -1493,7 +1493,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/zpkt_1832_01/GT-PAGE/zpkt_1832_01_00041.xml">zpkt_1832_01_00041.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/zpkt_1832_01/GT-PAGE/zpkt_1832_01_00041.xml">zpkt_1832_01_00041.xml</a>
                            </td>
                            <td>35</td>
                            <td>1</td>
@@ -1514,7 +1514,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/zpkt_1832_01/GT-PAGE/zpkt_1832_01_00008.xml">zpkt_1832_01_00008.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/zpkt_1832_01/GT-PAGE/zpkt_1832_01_00008.xml">zpkt_1832_01_00008.xml</a>
                            </td>
                            <td>32</td>
                            <td>1</td>
@@ -1584,7 +1584,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/drey1834/GT-PAGE/drey1834_0037.xml">drey1834_0037.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/drey1834/GT-PAGE/drey1834_0037.xml">drey1834_0037.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -1605,7 +1605,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/drey1834/GT-PAGE/drey1834_0001.xml">drey1834_0001.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/drey1834/GT-PAGE/drey1834_0001.xml">drey1834_0001.xml</a>
                            </td>
                            <td>14</td>
                            <td>1</td>
@@ -1626,7 +1626,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/drey1834/GT-PAGE/drey1834_0049.xml">drey1834_0049.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/drey1834/GT-PAGE/drey1834_0049.xml">drey1834_0049.xml</a>
                            </td>
                            <td>31</td>
                            <td>1</td>
@@ -1647,7 +1647,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/drey1834/GT-PAGE/drey1834_0031.xml">drey1834_0031.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/drey1834/GT-PAGE/drey1834_0031.xml">drey1834_0031.xml</a>
                            </td>
                            <td>30</td>
                            <td>1</td>
@@ -1668,7 +1668,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/drey1834/GT-PAGE/drey1834_0051.xml">drey1834_0051.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/drey1834/GT-PAGE/drey1834_0051.xml">drey1834_0051.xml</a>
                            </td>
                            <td>30</td>
                            <td>1</td>
@@ -1738,7 +1738,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/stml_1871_01/GT-PAGE/stml_1871_01_00027.xml">stml_1871_01_00027.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/stml_1871_01/GT-PAGE/stml_1871_01_00027.xml">stml_1871_01_00027.xml</a>
                            </td>
                            <td>87</td>
                            <td>1</td>
@@ -1759,7 +1759,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/stml_1871_01/GT-PAGE/stml_1871_01_00549.xml">stml_1871_01_00549.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/stml_1871_01/GT-PAGE/stml_1871_01_00549.xml">stml_1871_01_00549.xml</a>
                            </td>
                            <td>45</td>
                            <td>1</td>
@@ -1780,7 +1780,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/stml_1871_01/GT-PAGE/stml_1871_01_00363.xml">stml_1871_01_00363.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/stml_1871_01/GT-PAGE/stml_1871_01_00363.xml">stml_1871_01_00363.xml</a>
                            </td>
                            <td>47</td>
                            <td>1</td>
@@ -1801,7 +1801,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/stml_1871_01/GT-PAGE/stml_1871_01_00006.xml">stml_1871_01_00006.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/stml_1871_01/GT-PAGE/stml_1871_01_00006.xml">stml_1871_01_00006.xml</a>
                            </td>
                            <td>59</td>
                            <td>1</td>
@@ -1822,7 +1822,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/stml_1871_01/GT-PAGE/stml_1871_01_00485.xml">stml_1871_01_00485.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/stml_1871_01/GT-PAGE/stml_1871_01_00485.xml">stml_1871_01_00485.xml</a>
                            </td>
                            <td>41</td>
                            <td>1</td>
@@ -1843,7 +1843,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/stml_1871_01/GT-PAGE/stml_1871_01_00483.xml">stml_1871_01_00483.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/stml_1871_01/GT-PAGE/stml_1871_01_00483.xml">stml_1871_01_00483.xml</a>
                            </td>
                            <td>45</td>
                            <td>1</td>
@@ -1864,7 +1864,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/stml_1871_01/GT-PAGE/stml_1871_01_00075.xml">stml_1871_01_00075.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/stml_1871_01/GT-PAGE/stml_1871_01_00075.xml">stml_1871_01_00075.xml</a>
                            </td>
                            <td>64</td>
                            <td>1</td>
@@ -1885,7 +1885,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/stml_1871_01/GT-PAGE/stml_1871_01_00029.xml">stml_1871_01_00029.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/stml_1871_01/GT-PAGE/stml_1871_01_00029.xml">stml_1871_01_00029.xml</a>
                            </td>
                            <td>80</td>
                            <td>1</td>
@@ -1906,7 +1906,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/stml_1871_01/GT-PAGE/stml_1871_01_00037.xml">stml_1871_01_00037.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/stml_1871_01/GT-PAGE/stml_1871_01_00037.xml">stml_1871_01_00037.xml</a>
                            </td>
                            <td>34</td>
                            <td>1</td>
@@ -1927,7 +1927,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/stml_1871_01/GT-PAGE/stml_1871_01_00427.xml">stml_1871_01_00427.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/stml_1871_01/GT-PAGE/stml_1871_01_00427.xml">stml_1871_01_00427.xml</a>
                            </td>
                            <td>66</td>
                            <td>1</td>
@@ -1948,7 +1948,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/stml_1871_01/GT-PAGE/stml_1871_01_00060.xml">stml_1871_01_00060.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/stml_1871_01/GT-PAGE/stml_1871_01_00060.xml">stml_1871_01_00060.xml</a>
                            </td>
                            <td>38</td>
                            <td>1</td>
@@ -1969,7 +1969,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/stml_1871_01/GT-PAGE/stml_1871_01_00098.xml">stml_1871_01_00098.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/stml_1871_01/GT-PAGE/stml_1871_01_00098.xml">stml_1871_01_00098.xml</a>
                            </td>
                            <td>49</td>
                            <td>1</td>
@@ -1990,7 +1990,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/stml_1871_01/GT-PAGE/stml_1871_01_00063.xml">stml_1871_01_00063.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/stml_1871_01/GT-PAGE/stml_1871_01_00063.xml">stml_1871_01_00063.xml</a>
                            </td>
                            <td>48</td>
                            <td>1</td>
@@ -2011,7 +2011,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/stml_1871_01/GT-PAGE/stml_1871_01_00227.xml">stml_1871_01_00227.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/stml_1871_01/GT-PAGE/stml_1871_01_00227.xml">stml_1871_01_00227.xml</a>
                            </td>
                            <td>39</td>
                            <td>1</td>
@@ -2032,7 +2032,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/stml_1871_01/GT-PAGE/stml_1871_01_00028.xml">stml_1871_01_00028.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/stml_1871_01/GT-PAGE/stml_1871_01_00028.xml">stml_1871_01_00028.xml</a>
                            </td>
                            <td>78</td>
                            <td>1</td>
@@ -2053,7 +2053,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/stml_1871_01/GT-PAGE/stml_1871_01_00005.xml">stml_1871_01_00005.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/stml_1871_01/GT-PAGE/stml_1871_01_00005.xml">stml_1871_01_00005.xml</a>
                            </td>
                            <td>54</td>
                            <td>1</td>
@@ -2074,7 +2074,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/stml_1871_01/GT-PAGE/stml_1871_01_00061.xml">stml_1871_01_00061.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/stml_1871_01/GT-PAGE/stml_1871_01_00061.xml">stml_1871_01_00061.xml</a>
                            </td>
                            <td>49</td>
                            <td>1</td>
@@ -2095,7 +2095,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/stml_1871_01/GT-PAGE/stml_1871_01_00101.xml">stml_1871_01_00101.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/stml_1871_01/GT-PAGE/stml_1871_01_00101.xml">stml_1871_01_00101.xml</a>
                            </td>
                            <td>35</td>
                            <td>1</td>
@@ -2116,7 +2116,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/stml_1871_01/GT-PAGE/stml_1871_01_00030.xml">stml_1871_01_00030.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/stml_1871_01/GT-PAGE/stml_1871_01_00030.xml">stml_1871_01_00030.xml</a>
                            </td>
                            <td>82</td>
                            <td>1</td>
@@ -2137,7 +2137,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/stml_1871_01/GT-PAGE/stml_1871_01_00036.xml">stml_1871_01_00036.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/stml_1871_01/GT-PAGE/stml_1871_01_00036.xml">stml_1871_01_00036.xml</a>
                            </td>
                            <td>73</td>
                            <td>1</td>
@@ -2158,7 +2158,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/stml_1871_01/GT-PAGE/stml_1871_01_00541.xml">stml_1871_01_00541.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/stml_1871_01/GT-PAGE/stml_1871_01_00541.xml">stml_1871_01_00541.xml</a>
                            </td>
                            <td>41</td>
                            <td>1</td>
@@ -2179,7 +2179,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/stml_1871_01/GT-PAGE/stml_1871_01_00066.xml">stml_1871_01_00066.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/stml_1871_01/GT-PAGE/stml_1871_01_00066.xml">stml_1871_01_00066.xml</a>
                            </td>
                            <td>44</td>
                            <td>1</td>
@@ -2249,7 +2249,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/kath_1830_035/GT-PAGE/kath_1830_035_00393.xml">kath_1830_035_00393.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/kath_1830_035/GT-PAGE/kath_1830_035_00393.xml">kath_1830_035_00393.xml</a>
                            </td>
                            <td>54</td>
                            <td>1</td>
@@ -2270,7 +2270,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/kath_1830_035/GT-PAGE/kath_1830_035_00432.xml">kath_1830_035_00432.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/kath_1830_035/GT-PAGE/kath_1830_035_00432.xml">kath_1830_035_00432.xml</a>
                            </td>
                            <td>56</td>
                            <td>1</td>
@@ -2291,7 +2291,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/kath_1830_035/GT-PAGE/kath_1830_035_00005.xml">kath_1830_035_00005.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/kath_1830_035/GT-PAGE/kath_1830_035_00005.xml">kath_1830_035_00005.xml</a>
                            </td>
                            <td>52</td>
                            <td>1</td>
@@ -2312,7 +2312,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/kath_1830_035/GT-PAGE/kath_1830_035_00431.xml">kath_1830_035_00431.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/kath_1830_035/GT-PAGE/kath_1830_035_00431.xml">kath_1830_035_00431.xml</a>
                            </td>
                            <td>49</td>
                            <td>1</td>
@@ -2333,7 +2333,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/kath_1830_035/GT-PAGE/kath_1830_035_00061.xml">kath_1830_035_00061.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/kath_1830_035/GT-PAGE/kath_1830_035_00061.xml">kath_1830_035_00061.xml</a>
                            </td>
                            <td>13</td>
                            <td>1</td>
@@ -2354,7 +2354,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/kath_1830_035/GT-PAGE/kath_1830_035_00371.xml">kath_1830_035_00371.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/kath_1830_035/GT-PAGE/kath_1830_035_00371.xml">kath_1830_035_00371.xml</a>
                            </td>
                            <td>33</td>
                            <td>1</td>
@@ -2375,7 +2375,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/kath_1830_035/GT-PAGE/kath_1830_035_00404.xml">kath_1830_035_00404.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/kath_1830_035/GT-PAGE/kath_1830_035_00404.xml">kath_1830_035_00404.xml</a>
                            </td>
                            <td>36</td>
                            <td>1</td>
@@ -2396,7 +2396,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/kath_1830_035/GT-PAGE/kath_1830_035_00006.xml">kath_1830_035_00006.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/kath_1830_035/GT-PAGE/kath_1830_035_00006.xml">kath_1830_035_00006.xml</a>
                            </td>
                            <td>33</td>
                            <td>1</td>
@@ -2417,7 +2417,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/kath_1830_035/GT-PAGE/kath_1830_035_00083.xml">kath_1830_035_00083.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/kath_1830_035/GT-PAGE/kath_1830_035_00083.xml">kath_1830_035_00083.xml</a>
                            </td>
                            <td>34</td>
                            <td>1</td>
@@ -2438,7 +2438,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/kath_1830_035/GT-PAGE/kath_1830_035_00007.xml">kath_1830_035_00007.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/kath_1830_035/GT-PAGE/kath_1830_035_00007.xml">kath_1830_035_00007.xml</a>
                            </td>
                            <td>37</td>
                            <td>1</td>
@@ -2459,7 +2459,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/kath_1830_035/GT-PAGE/kath_1830_035_00385.xml">kath_1830_035_00385.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/kath_1830_035/GT-PAGE/kath_1830_035_00385.xml">kath_1830_035_00385.xml</a>
                            </td>
                            <td>39</td>
                            <td>1</td>
@@ -2480,7 +2480,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/kath_1830_035/GT-PAGE/kath_1830_035_00136.xml">kath_1830_035_00136.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/kath_1830_035/GT-PAGE/kath_1830_035_00136.xml">kath_1830_035_00136.xml</a>
                            </td>
                            <td>34</td>
                            <td>1</td>
@@ -2501,7 +2501,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/kath_1830_035/GT-PAGE/kath_1830_035_00388.xml">kath_1830_035_00388.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/kath_1830_035/GT-PAGE/kath_1830_035_00388.xml">kath_1830_035_00388.xml</a>
                            </td>
                            <td>46</td>
                            <td>1</td>
@@ -2522,7 +2522,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/kath_1830_035/GT-PAGE/kath_1830_035_00039.xml">kath_1830_035_00039.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/kath_1830_035/GT-PAGE/kath_1830_035_00039.xml">kath_1830_035_00039.xml</a>
                            </td>
                            <td>37</td>
                            <td>1</td>
@@ -2543,7 +2543,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/kath_1830_035/GT-PAGE/kath_1830_035_00202.xml">kath_1830_035_00202.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/kath_1830_035/GT-PAGE/kath_1830_035_00202.xml">kath_1830_035_00202.xml</a>
                            </td>
                            <td>33</td>
                            <td>1</td>
@@ -2564,7 +2564,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/kath_1830_035/GT-PAGE/kath_1830_035_00401.xml">kath_1830_035_00401.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/kath_1830_035/GT-PAGE/kath_1830_035_00401.xml">kath_1830_035_00401.xml</a>
                            </td>
                            <td>32</td>
                            <td>1</td>
@@ -2585,7 +2585,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/kath_1830_035/GT-PAGE/kath_1830_035_00430.xml">kath_1830_035_00430.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/kath_1830_035/GT-PAGE/kath_1830_035_00430.xml">kath_1830_035_00430.xml</a>
                            </td>
                            <td>47</td>
                            <td>1</td>
@@ -2606,7 +2606,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/kath_1830_035/GT-PAGE/kath_1830_035_00003.xml">kath_1830_035_00003.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/kath_1830_035/GT-PAGE/kath_1830_035_00003.xml">kath_1830_035_00003.xml</a>
                            </td>
                            <td>17</td>
                            <td>1</td>
@@ -2676,7 +2676,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/zpk_1838_01/GT-PAGE/zpk_1838_01_0087.xml">zpk_1838_01_0087.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/zpk_1838_01/GT-PAGE/zpk_1838_01_0087.xml">zpk_1838_01_0087.xml</a>
                            </td>
                            <td>94</td>
                            <td>1</td>
@@ -2697,7 +2697,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/zpk_1838_01/GT-PAGE/zpk_1838_01_0033.xml">zpk_1838_01_0033.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/zpk_1838_01/GT-PAGE/zpk_1838_01_0033.xml">zpk_1838_01_0033.xml</a>
                            </td>
                            <td>83</td>
                            <td>1</td>
@@ -2718,7 +2718,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/zpk_1838_01/GT-PAGE/zpk_1838_01_0030.xml">zpk_1838_01_0030.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/zpk_1838_01/GT-PAGE/zpk_1838_01_0030.xml">zpk_1838_01_0030.xml</a>
                            </td>
                            <td>96</td>
                            <td>1</td>
@@ -2739,7 +2739,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/zpk_1838_01/GT-PAGE/zpk_1838_01_0016.xml">zpk_1838_01_0016.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/zpk_1838_01/GT-PAGE/zpk_1838_01_0016.xml">zpk_1838_01_0016.xml</a>
                            </td>
                            <td>95</td>
                            <td>1</td>
@@ -2760,7 +2760,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/zpk_1838_01/GT-PAGE/zpk_1838_01_0006.xml">zpk_1838_01_0006.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/zpk_1838_01/GT-PAGE/zpk_1838_01_0006.xml">zpk_1838_01_0006.xml</a>
                            </td>
                            <td>65</td>
                            <td>1</td>
@@ -2781,7 +2781,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/zpk_1838_01/GT-PAGE/zpk_1838_01_0005.xml">zpk_1838_01_0005.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/zpk_1838_01/GT-PAGE/zpk_1838_01_0005.xml">zpk_1838_01_0005.xml</a>
                            </td>
                            <td>47</td>
                            <td>1</td>
@@ -2802,7 +2802,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/zpk_1838_01/GT-PAGE/zpk_1838_01_0085.xml">zpk_1838_01_0085.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/zpk_1838_01/GT-PAGE/zpk_1838_01_0085.xml">zpk_1838_01_0085.xml</a>
                            </td>
                            <td>85</td>
                            <td>1</td>
@@ -2872,7 +2872,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0021.xml">litrdsch_1875_0021.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0021.xml">litrdsch_1875_0021.xml</a>
                            </td>
                            <td>140</td>
                            <td>1</td>
@@ -2893,7 +2893,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0007.xml">litrdsch_1875_0007.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0007.xml">litrdsch_1875_0007.xml</a>
                            </td>
                            <td>131</td>
                            <td>1</td>
@@ -2914,7 +2914,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0005.xml">litrdsch_1875_0005.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0005.xml">litrdsch_1875_0005.xml</a>
                            </td>
                            <td>148</td>
                            <td>1</td>
@@ -2935,7 +2935,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0209.xml">litrdsch_1875_0209.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0209.xml">litrdsch_1875_0209.xml</a>
                            </td>
                            <td>146</td>
                            <td>1</td>
@@ -2956,7 +2956,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0042.xml">litrdsch_1875_0042.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0042.xml">litrdsch_1875_0042.xml</a>
                            </td>
                            <td>110</td>
                            <td>1</td>
@@ -2977,7 +2977,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0260.xml">litrdsch_1875_0260.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0260.xml">litrdsch_1875_0260.xml</a>
                            </td>
                            <td>152</td>
                            <td>1</td>
@@ -2998,7 +2998,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0004.xml">litrdsch_1875_0004.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0004.xml">litrdsch_1875_0004.xml</a>
                            </td>
                            <td>117</td>
                            <td>1</td>
@@ -3019,7 +3019,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0006.xml">litrdsch_1875_0006.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0006.xml">litrdsch_1875_0006.xml</a>
                            </td>
                            <td>114</td>
                            <td>1</td>
@@ -3040,7 +3040,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0145.xml">litrdsch_1875_0145.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0145.xml">litrdsch_1875_0145.xml</a>
                            </td>
                            <td>172</td>
                            <td>1</td>
@@ -3061,7 +3061,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0261.xml">litrdsch_1875_0261.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0261.xml">litrdsch_1875_0261.xml</a>
                            </td>
                            <td>115</td>
                            <td>1</td>
@@ -3082,7 +3082,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0222.xml">litrdsch_1875_0222.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0222.xml">litrdsch_1875_0222.xml</a>
                            </td>
                            <td>143</td>
                            <td>1</td>
@@ -3103,7 +3103,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0037.xml">litrdsch_1875_0037.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0037.xml">litrdsch_1875_0037.xml</a>
                            </td>
                            <td>124</td>
                            <td>1</td>
@@ -3124,7 +3124,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0132.xml">litrdsch_1875_0132.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0132.xml">litrdsch_1875_0132.xml</a>
                            </td>
                            <td>125</td>
                            <td>1</td>
@@ -3145,7 +3145,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0142.xml">litrdsch_1875_0142.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0142.xml">litrdsch_1875_0142.xml</a>
                            </td>
                            <td>151</td>
                            <td>1</td>
@@ -3166,7 +3166,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0082.xml">litrdsch_1875_0082.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0082.xml">litrdsch_1875_0082.xml</a>
                            </td>
                            <td>138</td>
                            <td>1</td>
@@ -3187,7 +3187,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0083.xml">litrdsch_1875_0083.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0083.xml">litrdsch_1875_0083.xml</a>
                            </td>
                            <td>155</td>
                            <td>1</td>
@@ -3208,7 +3208,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0086.xml">litrdsch_1875_0086.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0086.xml">litrdsch_1875_0086.xml</a>
                            </td>
                            <td>111</td>
                            <td>1</td>
@@ -3229,7 +3229,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0259.xml">litrdsch_1875_0259.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0259.xml">litrdsch_1875_0259.xml</a>
                            </td>
                            <td>138</td>
                            <td>1</td>
@@ -3250,7 +3250,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0104.xml">litrdsch_1875_0104.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0104.xml">litrdsch_1875_0104.xml</a>
                            </td>
                            <td>147</td>
                            <td>1</td>
@@ -3271,7 +3271,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0129.xml">litrdsch_1875_0129.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0129.xml">litrdsch_1875_0129.xml</a>
                            </td>
                            <td>132</td>
                            <td>1</td>
@@ -3292,7 +3292,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0143.xml">litrdsch_1875_0143.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0143.xml">litrdsch_1875_0143.xml</a>
                            </td>
                            <td>157</td>
                            <td>1</td>
@@ -3313,7 +3313,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0204.xml">litrdsch_1875_0204.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0204.xml">litrdsch_1875_0204.xml</a>
                            </td>
                            <td>133</td>
                            <td>1</td>
@@ -3334,7 +3334,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0003.xml">litrdsch_1875_0003.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0003.xml">litrdsch_1875_0003.xml</a>
                            </td>
                            <td>7</td>
                            <td>1</td>
@@ -3355,7 +3355,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0127.xml">litrdsch_1875_0127.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0127.xml">litrdsch_1875_0127.xml</a>
                            </td>
                            <td>142</td>
                            <td>1</td>
@@ -3376,7 +3376,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0041.xml">litrdsch_1875_0041.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0041.xml">litrdsch_1875_0041.xml</a>
                            </td>
                            <td>152</td>
                            <td>1</td>
@@ -3397,7 +3397,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0203.xml">litrdsch_1875_0203.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0203.xml">litrdsch_1875_0203.xml</a>
                            </td>
                            <td>146</td>
                            <td>1</td>
@@ -3418,7 +3418,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0085.xml">litrdsch_1875_0085.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0085.xml">litrdsch_1875_0085.xml</a>
                            </td>
                            <td>150</td>
                            <td>1</td>
@@ -3439,7 +3439,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0106.xml">litrdsch_1875_0106.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0106.xml">litrdsch_1875_0106.xml</a>
                            </td>
                            <td>111</td>
                            <td>1</td>
@@ -3460,7 +3460,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0225.xml">litrdsch_1875_0225.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0225.xml">litrdsch_1875_0225.xml</a>
                            </td>
                            <td>136</td>
                            <td>1</td>
@@ -3481,7 +3481,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0144.xml">litrdsch_1875_0144.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0144.xml">litrdsch_1875_0144.xml</a>
                            </td>
                            <td>157</td>
                            <td>1</td>
@@ -3502,7 +3502,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0084.xml">litrdsch_1875_0084.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0084.xml">litrdsch_1875_0084.xml</a>
                            </td>
                            <td>157</td>
                            <td>1</td>
@@ -3523,7 +3523,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0146.xml">litrdsch_1875_0146.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0146.xml">litrdsch_1875_0146.xml</a>
                            </td>
                            <td>111</td>
                            <td>1</td>
@@ -3544,7 +3544,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0224.xml">litrdsch_1875_0224.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0224.xml">litrdsch_1875_0224.xml</a>
                            </td>
                            <td>153</td>
                            <td>1</td>
@@ -3565,7 +3565,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0105.xml">litrdsch_1875_0105.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0105.xml">litrdsch_1875_0105.xml</a>
                            </td>
                            <td>152</td>
                            <td>1</td>
@@ -3586,7 +3586,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0020.xml">litrdsch_1875_0020.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0020.xml">litrdsch_1875_0020.xml</a>
                            </td>
                            <td>147</td>
                            <td>1</td>
@@ -3607,7 +3607,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0201.xml">litrdsch_1875_0201.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0201.xml">litrdsch_1875_0201.xml</a>
                            </td>
                            <td>129</td>
                            <td>1</td>
@@ -3628,7 +3628,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0040.xml">litrdsch_1875_0040.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0040.xml">litrdsch_1875_0040.xml</a>
                            </td>
                            <td>143</td>
                            <td>1</td>
@@ -3649,7 +3649,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0128.xml">litrdsch_1875_0128.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/litrdsch_1875/GT-PAGE/litrdsch_1875_0128.xml">litrdsch_1875_0128.xml</a>
                            </td>
                            <td>155</td>
                            <td>1</td>
@@ -3719,7 +3719,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_001/GT-PAGE/artl_001_00237.xml">artl_001_00237.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_001/GT-PAGE/artl_001_00237.xml">artl_001_00237.xml</a>
                            </td>
                            <td>44</td>
                            <td>1</td>
@@ -3740,7 +3740,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_001/GT-PAGE/artl_001_00006.xml">artl_001_00006.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_001/GT-PAGE/artl_001_00006.xml">artl_001_00006.xml</a>
                            </td>
                            <td>47</td>
                            <td>1</td>
@@ -3761,7 +3761,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_001/GT-PAGE/artl_001_00051.xml">artl_001_00051.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_001/GT-PAGE/artl_001_00051.xml">artl_001_00051.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -3782,7 +3782,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_001/GT-PAGE/artl_001_00072.xml">artl_001_00072.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_001/GT-PAGE/artl_001_00072.xml">artl_001_00072.xml</a>
                            </td>
                            <td>45</td>
                            <td>1</td>
@@ -3803,7 +3803,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_001/GT-PAGE/artl_001_00286.xml">artl_001_00286.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_001/GT-PAGE/artl_001_00286.xml">artl_001_00286.xml</a>
                            </td>
                            <td>44</td>
                            <td>1</td>
@@ -3824,7 +3824,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_001/GT-PAGE/artl_001_00007.xml">artl_001_00007.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_001/GT-PAGE/artl_001_00007.xml">artl_001_00007.xml</a>
                            </td>
                            <td>46</td>
                            <td>1</td>
@@ -3845,7 +3845,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_001/GT-PAGE/artl_001_00009.xml">artl_001_00009.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_001/GT-PAGE/artl_001_00009.xml">artl_001_00009.xml</a>
                            </td>
                            <td>41</td>
                            <td>1</td>
@@ -3866,7 +3866,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_001/GT-PAGE/artl_001_00080.xml">artl_001_00080.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_001/GT-PAGE/artl_001_00080.xml">artl_001_00080.xml</a>
                            </td>
                            <td>44</td>
                            <td>1</td>
@@ -3887,7 +3887,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_001/GT-PAGE/artl_001_00011.xml">artl_001_00011.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_001/GT-PAGE/artl_001_00011.xml">artl_001_00011.xml</a>
                            </td>
                            <td>41</td>
                            <td>1</td>
@@ -3908,7 +3908,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_001/GT-PAGE/artl_001_00005.xml">artl_001_00005.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_001/GT-PAGE/artl_001_00005.xml">artl_001_00005.xml</a>
                            </td>
                            <td>37</td>
                            <td>1</td>
@@ -3929,7 +3929,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_001/GT-PAGE/artl_001_00068.xml">artl_001_00068.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_001/GT-PAGE/artl_001_00068.xml">artl_001_00068.xml</a>
                            </td>
                            <td>45</td>
                            <td>1</td>
@@ -3950,7 +3950,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_001/GT-PAGE/artl_001_00126.xml">artl_001_00126.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_001/GT-PAGE/artl_001_00126.xml">artl_001_00126.xml</a>
                            </td>
                            <td>56</td>
                            <td>1</td>
@@ -3971,7 +3971,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_001/GT-PAGE/artl_001_00252.xml">artl_001_00252.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_001/GT-PAGE/artl_001_00252.xml">artl_001_00252.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -3992,7 +3992,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_001/GT-PAGE/artl_001_00298.xml">artl_001_00298.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_001/GT-PAGE/artl_001_00298.xml">artl_001_00298.xml</a>
                            </td>
                            <td>34</td>
                            <td>1</td>
@@ -4013,7 +4013,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_001/GT-PAGE/artl_001_00026.xml">artl_001_00026.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_001/GT-PAGE/artl_001_00026.xml">artl_001_00026.xml</a>
                            </td>
                            <td>47</td>
                            <td>1</td>
@@ -4034,7 +4034,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_001/GT-PAGE/artl_001_00209.xml">artl_001_00209.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_001/GT-PAGE/artl_001_00209.xml">artl_001_00209.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -4055,7 +4055,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_001/GT-PAGE/artl_001_00081.xml">artl_001_00081.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_001/GT-PAGE/artl_001_00081.xml">artl_001_00081.xml</a>
                            </td>
                            <td>44</td>
                            <td>1</td>
@@ -4076,7 +4076,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_001/GT-PAGE/artl_001_00010.xml">artl_001_00010.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_001/GT-PAGE/artl_001_00010.xml">artl_001_00010.xml</a>
                            </td>
                            <td>37</td>
                            <td>1</td>
@@ -4097,7 +4097,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_001/GT-PAGE/artl_001_00008.xml">artl_001_00008.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_001/GT-PAGE/artl_001_00008.xml">artl_001_00008.xml</a>
                            </td>
                            <td>37</td>
                            <td>1</td>
@@ -4118,7 +4118,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_001/GT-PAGE/artl_001_00082.xml">artl_001_00082.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_001/GT-PAGE/artl_001_00082.xml">artl_001_00082.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -4188,7 +4188,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_002/GT-PAGE/artl_002_00289.xml">artl_002_00289.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_002/GT-PAGE/artl_002_00289.xml">artl_002_00289.xml</a>
                            </td>
                            <td>57</td>
                            <td>1</td>
@@ -4209,7 +4209,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_002/GT-PAGE/artl_002_00069.xml">artl_002_00069.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_002/GT-PAGE/artl_002_00069.xml">artl_002_00069.xml</a>
                            </td>
                            <td>44</td>
                            <td>1</td>
@@ -4230,7 +4230,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_002/GT-PAGE/artl_002_00275.xml">artl_002_00275.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_002/GT-PAGE/artl_002_00275.xml">artl_002_00275.xml</a>
                            </td>
                            <td>44</td>
                            <td>1</td>
@@ -4251,7 +4251,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_002/GT-PAGE/artl_002_00021.xml">artl_002_00021.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_002/GT-PAGE/artl_002_00021.xml">artl_002_00021.xml</a>
                            </td>
                            <td>41</td>
                            <td>1</td>
@@ -4272,7 +4272,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_002/GT-PAGE/artl_002_00025.xml">artl_002_00025.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_002/GT-PAGE/artl_002_00025.xml">artl_002_00025.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -4293,7 +4293,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_002/GT-PAGE/artl_002_00010.xml">artl_002_00010.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_002/GT-PAGE/artl_002_00010.xml">artl_002_00010.xml</a>
                            </td>
                            <td>45</td>
                            <td>1</td>
@@ -4314,7 +4314,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_002/GT-PAGE/artl_002_00034.xml">artl_002_00034.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_002/GT-PAGE/artl_002_00034.xml">artl_002_00034.xml</a>
                            </td>
                            <td>44</td>
                            <td>1</td>
@@ -4335,7 +4335,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_002/GT-PAGE/artl_002_00014.xml">artl_002_00014.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_002/GT-PAGE/artl_002_00014.xml">artl_002_00014.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -4356,7 +4356,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_002/GT-PAGE/artl_002_00278.xml">artl_002_00278.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_002/GT-PAGE/artl_002_00278.xml">artl_002_00278.xml</a>
                            </td>
                            <td>45</td>
                            <td>1</td>
@@ -4377,7 +4377,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_002/GT-PAGE/artl_002_00066.xml">artl_002_00066.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_002/GT-PAGE/artl_002_00066.xml">artl_002_00066.xml</a>
                            </td>
                            <td>45</td>
                            <td>1</td>
@@ -4398,7 +4398,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_002/GT-PAGE/artl_002_00052.xml">artl_002_00052.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_002/GT-PAGE/artl_002_00052.xml">artl_002_00052.xml</a>
                            </td>
                            <td>49</td>
                            <td>1</td>
@@ -4419,7 +4419,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_002/GT-PAGE/artl_002_00288.xml">artl_002_00288.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_002/GT-PAGE/artl_002_00288.xml">artl_002_00288.xml</a>
                            </td>
                            <td>47</td>
                            <td>1</td>
@@ -4440,7 +4440,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_002/GT-PAGE/artl_002_00020.xml">artl_002_00020.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_002/GT-PAGE/artl_002_00020.xml">artl_002_00020.xml</a>
                            </td>
                            <td>45</td>
                            <td>1</td>
@@ -4461,7 +4461,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_002/GT-PAGE/artl_002_00203.xml">artl_002_00203.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_002/GT-PAGE/artl_002_00203.xml">artl_002_00203.xml</a>
                            </td>
                            <td>45</td>
                            <td>1</td>
@@ -4482,7 +4482,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_002/GT-PAGE/artl_002_00036.xml">artl_002_00036.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_002/GT-PAGE/artl_002_00036.xml">artl_002_00036.xml</a>
                            </td>
                            <td>46</td>
                            <td>1</td>
@@ -4503,7 +4503,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_002/GT-PAGE/artl_002_00053.xml">artl_002_00053.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_002/GT-PAGE/artl_002_00053.xml">artl_002_00053.xml</a>
                            </td>
                            <td>44</td>
                            <td>1</td>
@@ -4524,7 +4524,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_002/GT-PAGE/artl_002_00067.xml">artl_002_00067.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_002/GT-PAGE/artl_002_00067.xml">artl_002_00067.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -4545,7 +4545,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_002/GT-PAGE/artl_002_00290.xml">artl_002_00290.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_002/GT-PAGE/artl_002_00290.xml">artl_002_00290.xml</a>
                            </td>
                            <td>55</td>
                            <td>1</td>
@@ -4566,7 +4566,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/artl_002/GT-PAGE/artl_002_00202.xml">artl_002_00202.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/artl_002/GT-PAGE/artl_002_00202.xml">artl_002_00202.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -4636,7 +4636,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/akzs_1860/GT-PAGE/akzs_1860_00063.xml">akzs_1860_00063.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/akzs_1860/GT-PAGE/akzs_1860_00063.xml">akzs_1860_00063.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -4657,7 +4657,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/akzs_1860/GT-PAGE/akzs_1860_00510.xml">akzs_1860_00510.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/akzs_1860/GT-PAGE/akzs_1860_00510.xml">akzs_1860_00510.xml</a>
                            </td>
                            <td>40</td>
                            <td>1</td>
@@ -4678,7 +4678,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/akzs_1860/GT-PAGE/akzs_1860_00104.xml">akzs_1860_00104.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/akzs_1860/GT-PAGE/akzs_1860_00104.xml">akzs_1860_00104.xml</a>
                            </td>
                            <td>47</td>
                            <td>1</td>
@@ -4699,7 +4699,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/akzs_1860/GT-PAGE/akzs_1860_00571.xml">akzs_1860_00571.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/akzs_1860/GT-PAGE/akzs_1860_00571.xml">akzs_1860_00571.xml</a>
                            </td>
                            <td>30</td>
                            <td>1</td>
@@ -4720,7 +4720,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/akzs_1860/GT-PAGE/akzs_1860_00167.xml">akzs_1860_00167.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/akzs_1860/GT-PAGE/akzs_1860_00167.xml">akzs_1860_00167.xml</a>
                            </td>
                            <td>44</td>
                            <td>1</td>
@@ -4741,7 +4741,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/akzs_1860/GT-PAGE/akzs_1860_00296.xml">akzs_1860_00296.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/akzs_1860/GT-PAGE/akzs_1860_00296.xml">akzs_1860_00296.xml</a>
                            </td>
                            <td>44</td>
                            <td>1</td>
@@ -4762,7 +4762,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/akzs_1860/GT-PAGE/akzs_1860_00198.xml">akzs_1860_00198.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/akzs_1860/GT-PAGE/akzs_1860_00198.xml">akzs_1860_00198.xml</a>
                            </td>
                            <td>37</td>
                            <td>1</td>
@@ -4783,7 +4783,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/akzs_1860/GT-PAGE/akzs_1860_00084.xml">akzs_1860_00084.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/akzs_1860/GT-PAGE/akzs_1860_00084.xml">akzs_1860_00084.xml</a>
                            </td>
                            <td>42</td>
                            <td>1</td>
@@ -4804,7 +4804,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/akzs_1860/GT-PAGE/akzs_1860_00446.xml">akzs_1860_00446.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/akzs_1860/GT-PAGE/akzs_1860_00446.xml">akzs_1860_00446.xml</a>
                            </td>
                            <td>51</td>
                            <td>1</td>
@@ -4825,7 +4825,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/akzs_1860/GT-PAGE/akzs_1860_00006.xml">akzs_1860_00006.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/akzs_1860/GT-PAGE/akzs_1860_00006.xml">akzs_1860_00006.xml</a>
                            </td>
                            <td>26</td>
                            <td>1</td>
@@ -4846,7 +4846,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/akzs_1860/GT-PAGE/akzs_1860_00262.xml">akzs_1860_00262.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/akzs_1860/GT-PAGE/akzs_1860_00262.xml">akzs_1860_00262.xml</a>
                            </td>
                            <td>53</td>
                            <td>1</td>
@@ -4867,7 +4867,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/akzs_1860/GT-PAGE/akzs_1860_00556.xml">akzs_1860_00556.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/akzs_1860/GT-PAGE/akzs_1860_00556.xml">akzs_1860_00556.xml</a>
                            </td>
                            <td>41</td>
                            <td>1</td>
@@ -4888,7 +4888,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/akzs_1860/GT-PAGE/akzs_1860_00062.xml">akzs_1860_00062.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/akzs_1860/GT-PAGE/akzs_1860_00062.xml">akzs_1860_00062.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -4909,7 +4909,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/akzs_1860/GT-PAGE/akzs_1860_00020.xml">akzs_1860_00020.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/akzs_1860/GT-PAGE/akzs_1860_00020.xml">akzs_1860_00020.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -4930,7 +4930,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/akzs_1860/GT-PAGE/akzs_1860_00156.xml">akzs_1860_00156.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/akzs_1860/GT-PAGE/akzs_1860_00156.xml">akzs_1860_00156.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -4951,7 +4951,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/akzs_1860/GT-PAGE/akzs_1860_00100.xml">akzs_1860_00100.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/akzs_1860/GT-PAGE/akzs_1860_00100.xml">akzs_1860_00100.xml</a>
                            </td>
                            <td>39</td>
                            <td>1</td>
@@ -4972,7 +4972,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/akzs_1860/GT-PAGE/akzs_1860_00003.xml">akzs_1860_00003.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/akzs_1860/GT-PAGE/akzs_1860_00003.xml">akzs_1860_00003.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -4993,7 +4993,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/akzs_1860/GT-PAGE/akzs_1860_00071.xml">akzs_1860_00071.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/akzs_1860/GT-PAGE/akzs_1860_00071.xml">akzs_1860_00071.xml</a>
                            </td>
                            <td>41</td>
                            <td>1</td>
@@ -5014,7 +5014,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/akzs_1860/GT-PAGE/akzs_1860_00638.xml">akzs_1860_00638.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/akzs_1860/GT-PAGE/akzs_1860_00638.xml">akzs_1860_00638.xml</a>
                            </td>
                            <td>55</td>
                            <td>1</td>
@@ -5035,7 +5035,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/akzs_1860/GT-PAGE/akzs_1860_00103.xml">akzs_1860_00103.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/akzs_1860/GT-PAGE/akzs_1860_00103.xml">akzs_1860_00103.xml</a>
                            </td>
                            <td>47</td>
                            <td>1</td>
@@ -5056,7 +5056,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/akzs_1860/GT-PAGE/akzs_1860_00634.xml">akzs_1860_00634.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/akzs_1860/GT-PAGE/akzs_1860_00634.xml">akzs_1860_00634.xml</a>
                            </td>
                            <td>42</td>
                            <td>1</td>
@@ -5077,7 +5077,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/akzs_1860/GT-PAGE/akzs_1860_00445.xml">akzs_1860_00445.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/akzs_1860/GT-PAGE/akzs_1860_00445.xml">akzs_1860_00445.xml</a>
                            </td>
                            <td>30</td>
                            <td>1</td>
@@ -5098,7 +5098,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/akzs_1860/GT-PAGE/akzs_1860_00078.xml">akzs_1860_00078.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/akzs_1860/GT-PAGE/akzs_1860_00078.xml">akzs_1860_00078.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -5119,7 +5119,7 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.6/data/akzs_1860/GT-PAGE/akzs_1860_00442.xml">akzs_1860_00442.xml</a>
+                              <a href="https://github.com/tboenig/gt-fraktur/blob/v1.0.8/data/akzs_1860/GT-PAGE/akzs_1860_00442.xml">akzs_1860_00442.xml</a>
                            </td>
                            <td>48</td>
                            <td>1</td>
